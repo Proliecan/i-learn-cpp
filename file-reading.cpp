@@ -58,6 +58,8 @@ int main(int argc, char const *argv[])
         }
         // print an empty line
         cout << endl;
+
+        file.close();
     }
 
     return 0;
