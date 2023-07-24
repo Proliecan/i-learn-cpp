@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <./print.h> // Remeber to compile with `g++ file-writing.cpp print.cpp -I . -o file-writing`!
+#include "./print.h"
 
 using namespace std;
 
