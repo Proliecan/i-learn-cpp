@@ -8,5 +8,8 @@
 # Unignore all dirs
 !*/
 
+# Unignore makefile
+!makefile
+
 .vscode
 *.out
